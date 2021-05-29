@@ -1,0 +1,113 @@
+
+.navbar-brand img{
+     width: 300px;
+}
+.top{
+    background-color: #fae7e4;
+    padding-left: 100px;
+}
+.navbar-nav{
+    padding-left: 300px;
+}
+
+.orange-highlight{
+    color: rgb(248, 183, 63);
+   
+}
+.head{
+    font-family: 'Anton', sans-serif;
+    font-size: 50px;
+    
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-weight: 200;
+    color: rgb(40, 40, 100);
+}
+p{
+    font-size: 13px;
+    color: dimgray;
+}
+.image{
+    width: 15px;
+}
+.btn{
+    font-size: 12px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    background-color: rgb(146, 184, 70);
+}
+.picture{
+    width: 400px;
+}
+
+
+.jacket{
+    padding: 6em;
+}
+.coat{
+    width: 200px;
+}
+.coate{
+    width: 150px;
+    height: 190px;   
+}
+.coatee{
+    width:160px;
+}
+.panda-card{
+    border: 0;
+    width: 300px;
+    place-items: center;
+}
+.xl{
+    width: 500px;
+    
+    padding-top: 100px;
+    
+}
+.house {
+    width: 80px;
+}
+.icon-card{
+    width: 300px;
+    border: 0;
+    
+}
+
+.last{
+    padding-right: 100px;
+    padding-top: 80px;
+    height: 600px;
+}
+.jack{
+    width: 160px;
+}
+.jacke{
+    width: 155px;
+    place-items: center;
+}
+.jackee{
+    width: 200px;
+}
+h4.orange-highlight,.btn{
+    display: flex;
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+    padding: 0;
+}
+.top{
+    height: 700px;
+}
+.title{
+    padding-left: 30px;
+}
+.play{
+    width: 420px;
+    border-radius: 30px;
+    border: 0;
+}
